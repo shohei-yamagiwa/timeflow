@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/timeflow-core/pom.xml" />
         <option value="$PROJECT_DIR$/timeflow-cli/pom.xml" />
+        <option value="$PROJECT_DIR$/timeflow-transpiler/pom.xml" />
       </list>
     </option>
   </component>

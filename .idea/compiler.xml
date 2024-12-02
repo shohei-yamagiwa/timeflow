@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="timeflow-core" />
         <module name="timeflow-cli" />
+        <module name="timeflow-transpiler" />
       </profile>
     </annotationProcessing>
   </component>
